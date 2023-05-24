@@ -1,4 +1,19 @@
+div{
+    padding: 15%;
+    margin: 2%;
+    background-color: aquamarine;
+    
+}
 
-{
-
+h1{
+    background-color: rgb(37, 35, 35);
+    padding:50px;
+    color:azure;
+    font-size:60px;
+}
+img{
+    margin: none;
+    background-color: darkmagenta;
+    width: 20%;
+    
 }
