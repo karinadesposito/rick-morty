@@ -1,19 +1,30 @@
 div{
-    padding: 15%;
-    margin: 2%;
-    background-color: aquamarine;
-    
+    padding: 0%;
+    margin: 0%;
+    background-color: rgb(201, 112, 164);
+    }
+li{
+    list-style: none;
+    color:rgb(25, 20, 31);
+    font-family: Calibri;
+    font-size:100px;    
+    display:flex;
+    }
+span{
+    text-align:left;
+    font-size:80px;
 }
-
 h1{
-    background-color: rgb(37, 35, 35);
+    background-color: rgb(137, 49, 106);
     padding:50px;
     color:azure;
-    font-size:60px;
+    font-size:100px;
+    font-family: calibri;
 }
 img{
-    margin: none;
-    background-color: darkmagenta;
-    width: 20%;
-    
+    border-radius: 50px;
+    padding:10px;
+    margin:20px;
+    background-color: rgb(62, 149, 178);
+    width: 200px;    
 }
